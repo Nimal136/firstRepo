@@ -2,3 +2,4 @@ Mars is a red planet.
 It is the fourth planet from the Sun.
 It is in between the Earth and the Jupiter.
 Garbage was removed
+Typed this in Github repository
